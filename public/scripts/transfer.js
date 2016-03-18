@@ -19,4 +19,4 @@ $(document).ready(function() {
 
   }
 
-}); // end jQuery doc ready 
+}); // end jQuery doc ready
